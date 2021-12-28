@@ -1,0 +1,10 @@
+.col-sm-3{
+    background-color: blanchedalmond;
+    margin: 2%;
+    color: blue;
+    height: 200px;
+    width: 20%
+}
+.col-sm-12{
+    background-color: #94A4D6;
+}
